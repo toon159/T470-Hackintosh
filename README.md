@@ -5,14 +5,11 @@
   - intel hd620
   - audio
   - NVMe
-  
-  
+  - brightness control (but too bright for me)
+
+
 **not working**
   - shutdown (restart instead)
-  
-
-**partial working**
-  - brightness control (too bright for me)
   
   
 **not been tested yet**
