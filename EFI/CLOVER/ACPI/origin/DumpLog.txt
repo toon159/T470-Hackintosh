@@ -1,0 +1,185 @@
+6:368  4:842  Found BIOS RSDP at F0140
+6:368  0:000  Printing ACPI tables from RSDP F0140 ...
+6:368  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+6:368  0:000    (Xsdt: 8FFC2188, Rsdt: 8FFC20C4)
+6:368  0:000    8FFC2188: 'XSDT', 'TP-N1Q  ', Rev: 1, Len: 260
+6:368  0:000    8FFC20C4: 'RSDT', 'TP-N1Q  ', Rev: 1, Len: 148
+6:368  0:000    Tables in Xsdt: 28
+6:368  0:000    0. 8FFF5000: 'FACP', 'TP-N1Q  ', Rev: 5, Len: 244
+6:368  0:000        (Dsdt: 8FFD0000, Facs: 8FF3D000, XDsdt: 8FFD0000, XFacs: 0)
+6:368  0:000        8FFD0000: 'DSDT', 'SKL     ', Rev: 2, Len: 134319
+6:371  0:003        8FF3D000: 'FACS', Ver: 2, Len: 64
+6:371  0:000    1. 8FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+6:371  0:000    2. 8FFFB000: 'TPM2', 'TP-N1Q  ', Rev: 3, Len: 52
+6:371  0:000    3. 8FF53000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 66
+6:371  0:000    4. 8FFF7000: 'SSDT', 'SaSsdt ', Rev: 2, Len: 12853
+6:371  0:000    5. 8FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+6:371  0:000    6. 8FFF4000: 'HPET', 'TP-N1Q  ', Rev: 1, Len: 56
+6:371  0:000    7. 8FFF3000: 'APIC', 'TP-N1Q  ', Rev: 3, Len: 188
+6:371  0:000    8. 8FFF2000: 'MCFG', 'TP-N1Q  ', Rev: 1, Len: 60
+6:371  0:000    9. 8FFF1000: 'ECDT', 'TP-N1Q  ', Rev: 1, Len: 83
+6:371  0:000    10. 8FFCF000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+6:371  0:000    11. 8FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+6:371  0:000    12. 8FFCC000: 'BOOT', 'TP-N1Q  ', Rev: 1, Len: 40
+6:371  0:000    13. 8FFCB000: 'BATB', 'TP-N1Q  ', Rev: 2, Len: 74
+6:371  0:000    14. 8FFCA000: 'SLIC', 'TP-N1Q  ', Rev: 1, Len: 374
+6:371  0:000    15. 8FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+6:371  0:000    16. 8FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+6:371  0:000    17. 8FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+6:371  0:000    18. 8FFC5000: 'WSMT', 'TP-N1Q  ', Rev: 1, Len: 40
+6:371  0:000    19. 8FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+6:371  0:000    20. 8FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+6:371  0:000    21. 8FFFD000: 'DBGP', 'TP-N1Q  ', Rev: 1, Len: 52
+6:371  0:000    22. 8FFC1000: 'DBG2', 'TP-N1Q  ', Rev: 0, Len: 84
+6:371  0:000    23. 8FFC0000: 'MSDM', 'TP-N1Q  ', Rev: 3, Len: 85
+6:371  0:000    24. 8FFBF000: 'DMAR', 'TP-N1Q  ', Rev: 1, Len: 168
+6:371  0:000    25. 8FFBE000: 'ASF!', 'TP-N1Q  ', Rev: 32, Len: 160
+6:371  0:000    26. 8FFBD000: 'FPDT', 'TP-N1Q  ', Rev: 1, Len: 68
+6:371  0:000    27. 8FF3A000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 318
+6:371  0:000    Tables in Rsdt: 28
+6:371  0:000    0. 8FFF5000: 'FACP', 'TP-N1Q  ', Rev: 5, Len: 244
+6:371  0:000        (Dsdt: 8FFD0000, Facs: 8FF3D000, XDsdt: 8FFD0000, XFacs: 0)
+6:371  0:000        8FFD0000: 'DSDT', 'SKL     ', Rev: 2, Len: 134319
+6:375  0:003        8FF3D000: 'FACS', Ver: 2, Len: 64
+6:375  0:000    1. 8FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+6:375  0:000    2. 8FFFB000: 'TPM2', 'TP-N1Q  ', Rev: 3, Len: 52
+6:375  0:000    3. 8FF53000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 66
+6:375  0:000    4. 8FFF7000: 'SSDT', 'SaSsdt ', Rev: 2, Len: 12853
+6:375  0:000    5. 8FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+6:375  0:000    6. 8FFF4000: 'HPET', 'TP-N1Q  ', Rev: 1, Len: 56
+6:375  0:000    7. 8FFF3000: 'APIC', 'TP-N1Q  ', Rev: 3, Len: 188
+6:375  0:000    8. 8FFF2000: 'MCFG', 'TP-N1Q  ', Rev: 1, Len: 60
+6:375  0:000    9. 8FFF1000: 'ECDT', 'TP-N1Q  ', Rev: 1, Len: 83
+6:375  0:000    10. 8FFCF000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+6:375  0:000    11. 8FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+6:375  0:000    12. 8FFCC000: 'BOOT', 'TP-N1Q  ', Rev: 1, Len: 40
+6:375  0:000    13. 8FFCB000: 'BATB', 'TP-N1Q  ', Rev: 2, Len: 74
+6:375  0:000    14. 8FFCA000: 'SLIC', 'TP-N1Q  ', Rev: 1, Len: 374
+6:375  0:000    15. 8FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+6:375  0:000    16. 8FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+6:375  0:000    17. 8FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+6:375  0:000    18. 8FFC5000: 'WSMT', 'TP-N1Q  ', Rev: 1, Len: 40
+6:375  0:000    19. 8FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+6:375  0:000    20. 8FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+6:375  0:000    21. 8FFFD000: 'DBGP', 'TP-N1Q  ', Rev: 1, Len: 52
+6:375  0:000    22. 8FFC1000: 'DBG2', 'TP-N1Q  ', Rev: 0, Len: 84
+6:375  0:000    23. 8FFC0000: 'MSDM', 'TP-N1Q  ', Rev: 3, Len: 85
+6:375  0:000    24. 8FFBF000: 'DMAR', 'TP-N1Q  ', Rev: 1, Len: 168
+6:375  0:000    25. 8FFBE000: 'ASF!', 'TP-N1Q  ', Rev: 32, Len: 160
+6:375  0:000    26. 8FFBD000: 'FPDT', 'TP-N1Q  ', Rev: 1, Len: 68
+6:375  0:000    27. 8FF3A000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 318
+6:375  0:000  Found UEFI Acpi 2.0 RSDP at 8FFFE014
+6:375  0:000  Saving ACPI tables from RSDP 8FFFE014 to EFI\CLOVER\ACPI\origin ...
+6:375  0:000   8FFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+6:645  0:270    (Xsdt: 8FFC2188, Rsdt: 8FFC20C4)
+6:645  0:000    8FFC2188: 'XSDT', 'TP-N1Q  ', Rev: 1, Len: 260 -> XSDT.aml
+6:826  0:180    8FFC20C4: 'RSDT', 'TP-N1Q  ', Rev: 1, Len: 148 -> RSDT.aml
+6:997  0:170    Tables in Xsdt: 28
+6:997  0:000    0. 8FFF5000: 'FACP', 'TP-N1Q  ', Rev: 5, Len: 244 -> FACP.aml
+7:174  0:177        (Dsdt: 8FFD0000, Facs: 8FF3D000, XDsdt: 8FFD0000, XFacs: 0)
+7:174  0:000        8FFD0000: 'DSDT', 'SKL     ', Rev: 2, Len: 134319 -> DSDT.aml
+7:567  0:393        8FF3D000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+7:751  0:183    1. 8FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972 -> SSDT-0.aml
+7:942  0:190    2. 8FFFB000: 'TPM2', 'TP-N1Q  ', Rev: 3, Len: 52 -> TPM2.aml
+8:126  0:184    3. 8FF53000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 66 -> UEFI.aml
+8:329  0:202    4. 8FFF7000: 'SSDT', 'SaSsdt ', Rev: 2, Len: 12853 -> SSDT-1.aml
+8:513  0:183    5. 8FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462 -> SSDT-2.aml
+8:715  0:202    6. 8FFF4000: 'HPET', 'TP-N1Q  ', Rev: 1, Len: 56 -> HPET.aml
+8:899  0:183    7. 8FFF3000: 'APIC', 'TP-N1Q  ', Rev: 3, Len: 188 -> APIC.aml
+9:089  0:190    8. 8FFF2000: 'MCFG', 'TP-N1Q  ', Rev: 1, Len: 60 -> MCFG.aml
+9:293  0:204    9. 8FFF1000: 'ECDT', 'TP-N1Q  ', Rev: 1, Len: 83 -> ECDT.aml
+9:477  0:183    10. 8FFCF000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540 -> SSDT-3.aml
+9:679  0:202    11. 8FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967 -> SSDT-4.aml
+9:897  0:217    12. 8FFCC000: 'BOOT', 'TP-N1Q  ', Rev: 1, Len: 40 -> BOOT.aml
+10:089  0:192    13. 8FFCB000: 'BATB', 'TP-N1Q  ', Rev: 2, Len: 74 -> BATB.aml
+10:260  0:170    14. 8FFCA000: 'SLIC', 'TP-N1Q  ', Rev: 1, Len: 374 -> SLIC.aml
+10:429  0:169    15. 8FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+ Found hidden SSDT 7 pcs
+10:429  0:000        * 8FF2B098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1716  53 53 44 54 B4 06 00 00 02 40 50 6D 52 65 66 00 Internal length = 1716 -> SSDT-6x.aml
+10:621  0:191        * 8FED1018: 'SSDT', 'ApIst', Rev: 2, Len: 3348  53 53 44 54 14 0D 00 00 02 2A 50 6D 52 65 66 00 Internal length = 3348 -> SSDT-7x.aml
+10:792  0:171        * 8FED2698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1023  53 53 44 54 FF 03 00 00 02 11 50 6D 52 65 66 00 Internal length = 1023 -> SSDT-8x.aml
+10:989  0:196        * 8FED0018: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 93 50 6D 52 65 66 00 Internal length = 778 -> SSDT-9x.aml
+11:160  0:171        * 8FF2BB18: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 186  53 53 44 54 BA 00 00 00 02 7D 50 6D 52 65 66 00 Internal length = 186 -> SSDT-10x.aml
+11:350  0:189        * 8FED0418: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 80 50 6D 52 65 66 00 Internal length = 791 -> SSDT-11x.aml
+11:542  0:191        * 8FED2018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1576  53 53 44 54 28 06 00 00 02 85 50 6D 52 65 66 00 Internal length = 1576 -> SSDT-12x.aml
+11:759  0:216   -> SSDT-5.aml
+11:950  0:191    16. 8FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389 -> SSDT-13.aml
+12:121  0:170    17. 8FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588 -> SSDT-14.aml
+12:333  0:211    18. 8FFC5000: 'WSMT', 'TP-N1Q  ', Rev: 1, Len: 40 -> WSMT.aml
+12:517  0:184    19. 8FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321 -> SSDT-15.aml
+12:721  0:203    20. 8FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221 -> SSDT-16.aml
+12:941  0:220    21. 8FFFD000: 'DBGP', 'TP-N1Q  ', Rev: 1, Len: 52 -> DBGP.aml
+13:125  0:183    22. 8FFC1000: 'DBG2', 'TP-N1Q  ', Rev: 0, Len: 84 -> DBG2.aml
+13:328  0:203    23. 8FFC0000: 'MSDM', 'TP-N1Q  ', Rev: 3, Len: 85 -> MSDM.aml
+13:514  0:185    24. 8FFBF000: 'DMAR', 'TP-N1Q  ', Rev: 1, Len: 168 -> DMAR.aml
+13:718  0:204    25. 8FFBE000: 'ASF!', 'TP-N1Q  ', Rev: 32, Len: 160 -> ASF!.aml
+13:903  0:184    26. 8FFBD000: 'FPDT', 'TP-N1Q  ', Rev: 1, Len: 68 -> FPDT.aml
+14:086  0:183    27. 8FF3A000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 318 -> UEFI.aml
+14:399  0:312    Tables in Rsdt: 28
+14:399  0:000    0. 8FFF5000: 'FACP', 'TP-N1Q  ', Rev: 5, Len: 244
+14:399  0:000        (Dsdt: 8FFD0000, Facs: 8FF3D000, XDsdt: 8FFD0000, XFacs: 0)
+14:399  0:000        8FFD0000: 'DSDT', 'SKL     ', Rev: 2, Len: 134319
+14:402  0:003        8FF3D000: 'FACS', Ver: 2, Len: 64
+14:402  0:000    1. 8FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+14:402  0:000    2. 8FFFB000: 'TPM2', 'TP-N1Q  ', Rev: 3, Len: 52
+14:402  0:000    3. 8FF53000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 66
+14:402  0:000    4. 8FFF7000: 'SSDT', 'SaSsdt ', Rev: 2, Len: 12853
+14:402  0:000    5. 8FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+14:402  0:000    6. 8FFF4000: 'HPET', 'TP-N1Q  ', Rev: 1, Len: 56
+14:402  0:000    7. 8FFF3000: 'APIC', 'TP-N1Q  ', Rev: 3, Len: 188
+14:402  0:000    8. 8FFF2000: 'MCFG', 'TP-N1Q  ', Rev: 1, Len: 60
+14:402  0:000    9. 8FFF1000: 'ECDT', 'TP-N1Q  ', Rev: 1, Len: 83
+14:402  0:000    10. 8FFCF000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+14:402  0:000    11. 8FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+14:402  0:000    12. 8FFCC000: 'BOOT', 'TP-N1Q  ', Rev: 1, Len: 40
+14:402  0:000    13. 8FFCB000: 'BATB', 'TP-N1Q  ', Rev: 2, Len: 74
+14:402  0:000    14. 8FFCA000: 'SLIC', 'TP-N1Q  ', Rev: 1, Len: 374
+14:402  0:000    15. 8FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:402  0:000    16. 8FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:402  0:000    17. 8FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+14:402  0:000    18. 8FFC5000: 'WSMT', 'TP-N1Q  ', Rev: 1, Len: 40
+14:402  0:000    19. 8FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+14:402  0:000    20. 8FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+14:402  0:000    21. 8FFFD000: 'DBGP', 'TP-N1Q  ', Rev: 1, Len: 52
+14:402  0:000    22. 8FFC1000: 'DBG2', 'TP-N1Q  ', Rev: 0, Len: 84
+14:402  0:000    23. 8FFC0000: 'MSDM', 'TP-N1Q  ', Rev: 3, Len: 85
+14:402  0:000    24. 8FFBF000: 'DMAR', 'TP-N1Q  ', Rev: 1, Len: 168
+14:402  0:000    25. 8FFBE000: 'ASF!', 'TP-N1Q  ', Rev: 32, Len: 160
+14:402  0:000    26. 8FFBD000: 'FPDT', 'TP-N1Q  ', Rev: 1, Len: 68
+14:402  0:000    27. 8FF3A000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 318
+14:402  0:000  Found UEFI Acpi 1.0 RSDP at 8FFFE000
+14:402  0:000  Printing ACPI tables from RSDP 8FFFE000 ...
+14:402  0:000   8FFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+14:402  0:000    (Rsdt: 8FFC2000)
+14:402  0:000    8FFC2000: 'RSDT', 'TP-N1Q  ', Rev: 1, Len: 144
+14:402  0:000    Tables in Rsdt: 27
+14:402  0:000    0. 8FFF5000: 'FACP', 'TP-N1Q  ', Rev: 5, Len: 244
+14:402  0:000        (Dsdt: 8FFD0000, Facs: 8FF3D000, XDsdt: 8FFD0000, XFacs: 0)
+14:402  0:000        8FFD0000: 'DSDT', 'SKL     ', Rev: 2, Len: 134319
+14:406  0:003        8FF3D000: 'FACS', Ver: 2, Len: 64
+14:406  0:000    1. 8FFFC000: 'SSDT', 'Tpm2Tabl', Rev: 2, Len: 972
+14:406  0:000    2. 8FFFB000: 'TPM2', 'TP-N1Q  ', Rev: 3, Len: 52
+14:406  0:000    3. 8FF53000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 66
+14:406  0:000    4. 8FFF7000: 'SSDT', 'SaSsdt ', Rev: 2, Len: 12853
+14:406  0:000    5. 8FFF6000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+14:406  0:000    6. 8FFF4000: 'HPET', 'TP-N1Q  ', Rev: 1, Len: 56
+14:406  0:000    7. 8FFF3000: 'APIC', 'TP-N1Q  ', Rev: 3, Len: 188
+14:406  0:000    8. 8FFF2000: 'MCFG', 'TP-N1Q  ', Rev: 1, Len: 60
+14:406  0:000    9. 8FFF1000: 'ECDT', 'TP-N1Q  ', Rev: 1, Len: 83
+14:406  0:000    10. 8FFCF000: 'SSDT', 'Rmv_Batt', Rev: 1, Len: 540
+14:406  0:000    11. 8FFCD000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 5967
+14:406  0:000    12. 8FFCC000: 'BOOT', 'TP-N1Q  ', Rev: 1, Len: 40
+14:406  0:000    13. 8FFCB000: 'BATB', 'TP-N1Q  ', Rev: 2, Len: 74
+14:406  0:000    14. 8FFC8000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+14:406  0:000    15. 8FFC7000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+14:406  0:000    16. 8FFC6000: 'SSDT', 'UsbCTabl', Rev: 2, Len: 1588
+14:406  0:000    17. 8FFC5000: 'WSMT', 'TP-N1Q  ', Rev: 1, Len: 40
+14:406  0:000    18. 8FFC4000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+14:406  0:000    19. 8FFC3000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+14:406  0:000    20. 8FFFD000: 'DBGP', 'TP-N1Q  ', Rev: 1, Len: 52
+14:406  0:000    21. 8FFC1000: 'DBG2', 'TP-N1Q  ', Rev: 0, Len: 84
+14:406  0:000    22. 8FFC0000: 'MSDM', 'TP-N1Q  ', Rev: 3, Len: 85
+14:406  0:000    23. 8FFBF000: 'DMAR', 'TP-N1Q  ', Rev: 1, Len: 168
+14:406  0:000    24. 8FFBE000: 'ASF!', 'TP-N1Q  ', Rev: 32, Len: 160
+14:406  0:000    25. 8FFBD000: 'FPDT', 'TP-N1Q  ', Rev: 1, Len: 68
+14:406  0:000    26. 8FF3A000: 'UEFI', 'TP-N1Q  ', Rev: 1, Len: 318
