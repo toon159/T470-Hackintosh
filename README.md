@@ -6,15 +6,11 @@
   - audio
   - NVMe
   - brightness control (but too bright for me)
-
-
-**not working**
-  - shutdown (restart instead)
-  
-  
-**not been tested yet**
   - wake from sleep
-  
+  - shutdown 
+  - fan and temp
+
+
   
 **credit**
 
