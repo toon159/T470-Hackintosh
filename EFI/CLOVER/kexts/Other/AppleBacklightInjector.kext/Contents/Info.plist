@@ -33,30 +33,15 @@
 			<key>ApplePanels</key>
 			<dict>
 				<key>F10T02e2</key>
-				<data>
-				ABEAAACMANgBNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQ
-				WRMS
-				</data>
+				<data>ABEAXwCMAF8BNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQWRMS</data>
 				<key>F10T050b</key>
-				<data>
-				ABEAAAAcACwAPwBRAGgAigCrAMwA+gE1AYEB3QJEAskD
-				WQPo
-				</data>
+				<data>ABEAXwAcACwAPwBRAGgAigCrAMwA+gE1AYEB3QJEAskDWQPo</data>
 				<key>F10T213e</key>
-				<data>
-				ABEAAACMANgBNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQ
-				WRMS
-				</data>
+				<data>ABEAXwCMAF8BNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQWRMS</data>
 				<key>F10T313c</key>
-				<data>
-				ABEAAACMANgBNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQ
-				WRMS
-				</data>
+				<data>ABEAXwCMAF8BNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQWRMS</data>
 				<key>F10T40e2</key>
-				<data>
-				ABEAAACMANgBNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQ
-				WRMS
-				</data>
+				<data>ABEAXwCMAF8BNgGPAf4CowNFA+cExwU1B1oJHAsTDZsQWRMS</data>
 			</dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleBacklight</string>
